@@ -1,0 +1,15 @@
+C:\Users\parkj\Desktop\BootCamp\TextRPG_HW\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.exe
+C:\Users\parkj\Desktop\BootCamp\TextRPG_HW\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.deps.json
+C:\Users\parkj\Desktop\BootCamp\TextRPG_HW\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.runtimeconfig.json
+C:\Users\parkj\Desktop\BootCamp\TextRPG_HW\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.dll
+C:\Users\parkj\Desktop\BootCamp\TextRPG_HW\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.pdb
+C:\Users\parkj\Desktop\BootCamp\TextRPG_HW\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parkj\Desktop\BootCamp\TextRPG_HW\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.AssemblyInfoInputs.cache
+C:\Users\parkj\Desktop\BootCamp\TextRPG_HW\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.AssemblyInfo.cs
+C:\Users\parkj\Desktop\BootCamp\TextRPG_HW\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.csproj.CoreCompileInputs.cache
+C:\Users\parkj\Desktop\BootCamp\TextRPG_HW\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.sourcelink.json
+C:\Users\parkj\Desktop\BootCamp\TextRPG_HW\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.dll
+C:\Users\parkj\Desktop\BootCamp\TextRPG_HW\TextRPG\TextRPG\obj\Debug\net8.0\refint\TextRPG.dll
+C:\Users\parkj\Desktop\BootCamp\TextRPG_HW\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.pdb
+C:\Users\parkj\Desktop\BootCamp\TextRPG_HW\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.genruntimeconfig.cache
+C:\Users\parkj\Desktop\BootCamp\TextRPG_HW\TextRPG\TextRPG\obj\Debug\net8.0\ref\TextRPG.dll
