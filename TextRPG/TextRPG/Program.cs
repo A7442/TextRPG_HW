@@ -287,7 +287,11 @@ namespace c_D
                     Console.WriteLine("착용 중인 장비는 판매할 수 없습니다");
                 }
             }
-
+            public void Lvup()
+            {
+                def += 1 * (level - 1);
+                atk += 1 * (level - 1);//float으로 만들걸...
+            }
         }
 
         class Select
@@ -474,6 +478,7 @@ namespace c_D
                                 Console.WriteLine("모험");
                                 player.Gold += 500;
                                 player.Hp -= 20;
+                                player.Level++;
                                 break;
                             case 5:
                                 player.Rest();
