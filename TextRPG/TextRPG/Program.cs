@@ -447,7 +447,7 @@ namespace c_D
                     Console.WriteLine("1. 상태보기\n");
                     Console.WriteLine("2. 인벤토리\n");
                     Console.WriteLine("3. 상점\n");
-                    Console.WriteLine("4. 모험 : +500gold\n\n");
+                    Console.WriteLine("4. 모험 : +500gold, -20Hp\n\n");
                     Console.WriteLine("5. 휴식하기\n\n");
                     Console.Write("\n>>");
                     if (int.TryParse(Console.ReadLine(), out int playerselect))
@@ -473,6 +473,7 @@ namespace c_D
                             case 4:
                                 Console.WriteLine("모험");
                                 player.Gold += 500;
+                                player.Hp -= 20;
                                 break;
                             case 5:
                                 player.Rest();
